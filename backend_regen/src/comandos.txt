@@ -1,0 +1,4 @@
+migrations:
+npm run migrations:run
+npm run migration:revert
+npm run migration:generate src/db/migrations/CriarTabelas
